@@ -1,7 +1,6 @@
-# NLU
-Natural Language Understanding (ETH Zürich 2019)
 
-Code will be published as soon as import issues from GitLab are fixed.
+Natural Language Understanding - ETH Zürich 2019 
+(Code will be published as soon as import issues from GitLab are fixed).
 
 # NLU Project 2 - Group 4 - ETHZ 2019
 
